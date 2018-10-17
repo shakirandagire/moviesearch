@@ -1,3 +1,21 @@
+.titleBar{
+    background-color: #808080;
+    display: block;
+    color: #fff;
+    padding-left: 16px;
+
+}
+
+.search{
+  font-size: 24px;
+  display: block;
+  width: 99%;
+  padding-left: 16px;
+  padding-bottom:8px;
+  padding-top:8px;
+  background-color: gainsboro;
+}
+
 .App {
   text-align: center;
 }
